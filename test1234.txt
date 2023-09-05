@@ -1,9 +1,14 @@
 helloww
-
+test
 test from git cli
 edit from browser
 test
 teset
 edit from github desktop
+<<<<<<< HEAD
 super
+=======
+teset
+>>>>>>> e98a9239014b2e85f124fb07832c0c477302bac2
 edit from browser
+test
