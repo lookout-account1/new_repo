@@ -1,5 +1,6 @@
 import slack
 import os
+import utils
 import subprocess
 import uuid
 import time
