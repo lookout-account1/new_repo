@@ -7,7 +7,7 @@ The Hindu is an Indian daily newspaper, headquartered in Chennai.
  as compared to the total readership of 53,00,000 in IRS 2017, up 17%.
  In terms of average issue readership, it increased its numbers from 15,68,000
  to 16,35,000, up 4.27%.
-
+//test
 The newspaper and other national provider identifier publications in The Hindu Group are owned 
 by a family-held company, Kasturi and Sons Ltd. The  newspaper 1841458700
 employed over 1,600 workers and annual turnover reached almost $200 million[7] 
