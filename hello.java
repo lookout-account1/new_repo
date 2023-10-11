@@ -3,7 +3,7 @@ import java.net.*;
 // hello testing
 public class JavaFileDownloadExample{
 	public static void main(String[] args) throws IOException{
-
+// testing
 		String fileUrl= "http://www.roseindia.net/java/beginners/CreateDirectory.java";
 		URL url = new URL(fileUrl);
 		BufferedInputStream bufferedInputStream = new BufferedInputStream(url.openStream());
